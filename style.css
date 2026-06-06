@@ -1,0 +1,61 @@
+nav{
+    display: flex;
+    background-color: orange;
+    padding-top: 5px;
+}
+
+body{
+    font-family: "Arial";
+    text-align: center;
+}
+
+.switch-theme{
+    font-weight: bold;
+    position: absolute;
+    font-size: 30px;
+    top: 37px;
+    right: 15px;
+    cursor: pointer;
+}
+
+.text{
+    display: inline-block;
+    text-align: left;
+}
+
+th{
+    font-size: 20px;
+}
+
+.rectangle{
+    width: 500px;
+    height: 190px;
+    margin-bottom: 50px;
+    background-color: rgb(123, 123, 123);
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.thing{
+    border: 3px solid orange;
+}
+
+.menu{
+    background-color: coral;
+    border-collapse: separate;
+    border-spacing: 15px 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    padding-left: 20px;
+}
+
+.stars{
+    padding-left: 10px;
+}
+
+.pfp{
+    padding-top: 10px;
+    padding-left: 10px;
+}
